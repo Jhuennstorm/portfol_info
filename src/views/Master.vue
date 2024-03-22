@@ -6,6 +6,8 @@
     <div class="aside">
         <div class="logo">
             <a href="#"><span>R</span>M</a>
+            <p>Begginer Web Developer</p>
+
         </div>
 
         <div class="nav-toggler">
