@@ -168,6 +168,13 @@ ul
     font-size: 30px;
     letter-spacing: 5px;
     position: relative;
+    padding-left: 80px;
+}
+.aside .logo p {
+    color: var(--text-black-900);
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px 20px;
 }
 .aside .logo a span
 {
@@ -175,7 +182,7 @@ ul
     font-size: 40px;
 
 }
-.aside .logo a::before
+.aside .logo p::before
 {
     content: '';
     position: absolute;
@@ -187,7 +194,7 @@ ul
     left: 0;
 
 }
-.aside .logo a::after
+.aside .logo p::after
 {
     content: '';
     position: absolute;
