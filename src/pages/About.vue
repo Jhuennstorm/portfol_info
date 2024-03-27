@@ -133,26 +133,34 @@
                                             <div class="timeline-item">
                                             <div class="circle-dot"></div>
                                             <h3 class="timeline-date">
-                                                <i class="fa fa-calendar"></i> 2013 - 2015
+                                                <i class="fa fa-calendar"></i> 2020
                                             </h3>
-                                            <h4 class="timeline-title">Master in Computer Science</h4>
-                                            <p class="timeline-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis veniam, magnam aliquid culpa voluptas dolores, mollitia officia iusto iure, tempora quam sequi aliquam nulla in?</p>
+                                            <h4 class="timeline-title">Call Center</h4>
+                                            <p class="timeline-text">I experience call center at Bosnic Company that serves as my Work Immersion way Back Senior High school</p>
+                                        </div>
+                                            <div class="timeline-item">
+                                            <div class="circle-dot"></div>
+                                            <h3 class="timeline-date">
+                                                <i class="fa fa-calendar"></i> 2018 - 2020
+                                            </h3>
+                                            <h4 class="timeline-title">Basic Life Support Training</h4>
+                                            <p class="timeline-text">I have been trained Basic Life Support and First Aid Training to become a DRRM member. I have also experience Being Trained By the Bureau of Fire Protection.</p>
                                         </div>
                                         <div class="timeline-item">
                                             <div class="circle-dot"></div>
                                             <h3 class="timeline-date">
-                                                <i class="fa fa-calendar"></i> 2013 - 2015
+                                                <i class="fa fa-calendar"></i> 2022-2024
                                             </h3>
-                                            <h4 class="timeline-title">Master in Computer Science</h4>
-                                            <p class="timeline-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis veniam, magnam aliquid culpa voluptas dolores, mollitia officia iusto iure, tempora quam sequi aliquam nulla in?</p>
+                                            <h4 class="timeline-title">Phoenix Rising Responder Team Leader</h4>
+                                            <p class="timeline-text">I am still taking training about DRRM and at the same time I am a team leader and a president of this organization as i tried to learn and teach my team at the same time </p>
                                         </div>
                                         <div class="timeline-item">
                                             <div class="circle-dot"></div>
                                             <h3 class="timeline-date">
-                                                <i class="fa fa-calendar"></i> 2013 - 2015
+                                                <i class="fa fa-calendar"></i> 2023
                                             </h3>
-                                            <h4 class="timeline-title">Master in Computer Science</h4>
-                                            <p class="timeline-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis veniam, magnam aliquid culpa voluptas dolores, mollitia officia iusto iure, tempora quam sequi aliquam nulla in?</p>
+                                            <h4 class="timeline-title">Call Center Training</h4>
+                                            <p class="timeline-text">I take Call center training offered by Tesda and Call Center Academy </p>
                                         </div>
                                     </div>
                                 </div>
